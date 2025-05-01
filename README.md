@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=5865F2&label=Discord&logo=discord&logoColor=fff)](YOUR_DISCORD_INVITE_LINK)
 [![Minecraft Server](https://img.shields.io/badge/Minecraft-MC--Nexgentech-brightgreen?logo=minecraft&style=flat-square)](YOUR_SERVER_IP:YOUR_SERVER_PORT)
-![Server Banner](https://via.placeholder.com/800x200?text=MC-Nexgentech+Server+Banner+Here)
+![Server Banner](images/banner.png)
 
 Chào mừng đến với **MC-Nexgentech**, một cộng đồng Minecraft năng động và thân thiện, nơi bạn có thể thỏa sức sáng tạo, khám phá những vùng đất kỳ diệu và kết nối với những người chơi đam mê khác!
 
