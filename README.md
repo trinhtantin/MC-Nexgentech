@@ -25,8 +25,8 @@ Tại MC-Nexgentech, bạn có thể:
 
 ## ⚙️ Thông Tin Kết Nối ⚙️
 
-* **Địa chỉ Máy Chủ:** `YOUR_SERVER_IP:YOUR_SERVER_PORT`
-* **Phiên Bản Minecraft:** `YOUR_SERVER_VERSION` (Ví dụ: 1.20.4)
+* **Địa chỉ Máy Chủ:** `147.185.221.28:10293`
+* **Phiên Bản Minecraft:** `1.21` (Ví dụ: 1.20.4)
 * **Discord:** [Tham gia Discord của chúng tôi!](YOUR_DISCORD_INVITE_LINK)
 
 ## 📜 Nội Quy Máy Chủ 📜
